@@ -22,6 +22,8 @@ function createUser($obj) : User
     return $user;
 }
 
+// zmiany zmiany zmiany
+
 /*
  * makes new Database;
  */
