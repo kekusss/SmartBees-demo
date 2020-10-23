@@ -1,0 +1,12 @@
+{
+    "name": "kewin/demo",
+    "authors": [
+        {
+            "name": "kekusss",
+            "email": "kewinwarzecha@gmail.com"
+        }
+    ],
+    "require": {
+        "chillerlan/php-qrcode": "^4.2"
+    }
+}
