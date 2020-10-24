@@ -128,4 +128,3 @@ echo '<div><h4>2. Domena :</h4>'.$user->getDomain().'</div>';
 echo '<div><h4>3.1 JSON :</h4>'.$user->getPersonData().'</div>';
 
 echo '<div><h4>3.2 QR : </h4><img src="'.(new QRCode)->render($user->getPersonData()).'" alt="QR Code" /></div>';
-
