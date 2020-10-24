@@ -22,6 +22,7 @@ function createUser($obj) : User
     return $user;
 }
 
+
 /*
  * makes new Database;
  */
